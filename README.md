@@ -1,8 +1,11 @@
-# migaleINRAE2025
-nouvelle phrase
-test
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+---
 
-#nouveau projet
-##liste
-*exemple*
-##conclusion
+# migaleINRAE2025
+
+nouvelle phrase test
+
+#nouveau projet ##liste *exemple* ##conclusion
